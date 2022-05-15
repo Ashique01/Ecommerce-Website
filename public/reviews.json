@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 1,
+        "name": "Ashique",
+        "description": "The website is very easy to use and their product is just mind blowing",
+        "image": "https://i.ibb.co/qBSW1ys/generated-photos-5e6814f56d3b380006d8329f.jpg"
+    },
+    {
+        "_id": 2,
+        "name": "Rabeya",
+        "description": "I have bought a neckless from them.The product was authentic",
+        "image": "https://i.ibb.co/g619Dcp/generated-photos-5e6889286d3b380006f22b6d.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "Nafiz",
+        "description": "Just Like it and very easy to use",
+        "image": "https://i.ibb.co/wY22dND/generated-photos-5e6802316d3b380006d3e8ad.jpg"
+    },
+    {
+        "_id": 4,
+        "name": "Sharif",
+        "description": "Lets Buy something real with the money we have earned with pain and sorrows",
+        "image": "https://i.ibb.co/dkYqFhn/generated-photos-5e6888c16d3b380006f21431.jpg"
+    },
+    {
+        "_id": 5,
+        "name": "Habib",
+        "description": "Best of luck for the future",
+        "image": "https://i.ibb.co/g3tVVRt/generated-photos-5e6879656d3b380006ee8c63.jpg"
+    },
+    {
+        "_id": 6,
+        "name": "Tushar",
+        "description": "Just Like it and very easy to use.Products are good ",
+        "image": "https://i.ibb.co/p3Wmx30/generated-photos-5e6806d16d3b380006d4f269.jpg"
+    }
+]

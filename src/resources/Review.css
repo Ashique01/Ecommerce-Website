@@ -1,0 +1,54 @@
+.reviews {
+    height: 40vh;
+    box-shadow: 0 0 3px #ccc;
+    padding: 15px;
+}
+
+img {
+    border: 0;
+}
+
+.mgb-20,
+.mgb-20-all>* {
+    margin-bottom: 20px;
+}
+
+.wpx-100,
+.wpx-100-after:after {
+    width: 100px;
+}
+
+.img-round,
+.img-rel-round {
+    border-radius: 50%;
+}
+
+.padb-30,
+.padb-30-all>* {
+    padding-bottom: 30px;
+}
+
+.mgb-40,
+.mgb-40-all>* {
+    margin-bottom: 40px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+[class*="line-b"] {
+    position: relative;
+    padding-bottom: 20px;
+    border-color: #E6AF2A;
+}
+
+.fg-text-d,
+.fg-hov-text-d:hover,
+.fg-active-text-d.active {
+    color: #222;
+}
+
+.font-cond-b {
+    font-weight: 700 !important;
+}
