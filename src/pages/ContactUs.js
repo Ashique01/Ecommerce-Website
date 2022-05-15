@@ -39,7 +39,9 @@ function ContactUs() {
                             <div className="form-group pt-lg-2 pt-3"> <label for="name">Your Email</label> <input type="email" name="email" className="form-control" required /> </div>
                             <div className="form-group pt-lg-2 pt-3"> <label for="name">Subject</label> <input type="text" name="subject" className="form-control" required /> </div>
                         </div>
-                        <Button type="primary" icon={<DownloadOutlined />} size={size} />
+                        <Button className='mt-3' type="primary" size={size}>
+                            Submit
+                        </Button>
                     </form>
                 </div>
             </div>
