@@ -39,9 +39,7 @@ function ContactUs() {
                             <div className="form-group pt-lg-2 pt-3"> <label for="name">Your Email</label> <input type="email" name="email" className="form-control" required /> </div>
                             <div className="form-group pt-lg-2 pt-3"> <label for="name">Subject</label> <input type="text" name="subject" className="form-control" required /> </div>
                         </div>
-                        <Button className='mt-3' type="primary" size={size}>
-                            Submit
-                        </Button>
+                        <button type="submit" className="btn btn-sm btn-primary mt-2 mb-2" value="Send Message" data-bs-toggle="modal" data-bs-target="#myModal"> Submit </button>
                     </form>
                 </div>
             </div>
